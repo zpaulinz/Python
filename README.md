@@ -15,13 +15,15 @@ Python/
 │   ├── if_conditions_examples.py
 │   ├── user-input-while-loop.py      
 │   ├── functions_examples.py	      
-│   ├── classes_examples.py
-│   └── dictionaries_examples.py
+│   └── classes_examples.py
+│    
 ├── django/
 ├── pandas/
 ├── numpy/	              
 ├── mini-projects/
-│   └── number-guessing-game.py      
+│   ├── number-guessing-game.py
+│   ├── pi_precision.py
+│   ├── rectangle_area.py     
 └── README.md                
 ```
 
