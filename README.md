@@ -15,7 +15,8 @@ Python/
 │   ├── if_conditions_examples.py
 │   ├── user-input-while-loop.py      
 │   ├── functions_examples.py	      
-│   └── classes_examples.py
+│   ├── classes_examples.py
+│   └── dictionaries_examples.py
 ├── django/
 ├── pandas/
 ├── numpy/	              
