@@ -1,4 +1,4 @@
-from fundamentals.survey import AnonymousSurvey
+from survey import AnonymousSurvey
 
 def test_store_single_response(): 
     """Check if a single response is stored correctly."""
