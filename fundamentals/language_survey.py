@@ -5,7 +5,7 @@ question = "What is your native language?"
 language_survey = AnonymousSurvey(question)
 
 # Display the question and store the responses.
-language_survey.show_question()
+language_survey.show_questions()
 print("Type 'q' to quit the program.\n")
 
 while True:
