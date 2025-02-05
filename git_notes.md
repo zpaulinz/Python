@@ -1,74 +1,92 @@
-#Git Notes
+# Git Notes
 
-(check the installed Git version)
+## Check the installed Git version
+```
 git --version 
+```
 
-
-(download Git - Windows, macOS)
+## Download Git - Windows, macOS
 https://git-scm.com
 
 
-(install Git - Linux)
+## Install Git - Linux
+```
 sudo apt install git
+```
 
-
-(git configuration)
+## Git configuration
+```
 git config --global user.name "nazwa_użytkownika"
 git config --global user.email "użytkownik@example.com"
 git config --global init.defaultBranch main
+```
 
-
-(ignoring files)
+## Ignoring files
 To make Git ignore .pyc files and the __pycache__ directory, add the following entry to the .gitignore file:
 
 __pycache__/
+
 On macOS, it's also recommended to add .DS_Store. If needed, enable the display of hidden files in your system.
 
 
-(initializing a repository)
+## Initializing a repository
 create folder, create .gitignore file
-
+```
 git init
+```
 
-
-(check status)
+## Check status
+```
 git status
+```
 
-
-(adding files to a repository)
+## Adding files to a repository
+```
 git add .
+```
 
-
-(committing files)
+## Committing files
+```
 git commit -m "Start a project"
+```
 
-
-(checking project log)
+## Checking project log
+```
 git log
 git log --pretty=oneline
+```
 
-
-(second commit)
+## Second commit
+```
 git commit -am "Rozbudowa powitania."
+```
 
-
-(restoring the project to a previous state)
+## Restoring the project to a previous state
+```
 git restore .
+```
 or
+```
 git restore file_name
+```
 
-
-(restoring the project to the previous state)
-git_cwiczenia$ git log --pretty=oneline
+## Restoring the project to the previous state
+```
+git log --pretty=oneline
+```
 945fa13af128a266d0114eebb7a3276f7d58ecd2 (HEAD -> main) Rozbudowa powitania.
+
 cea13ddc51b885d05a410201a54faf20e0d2e246 Rozpoczęcie projektu.
-git_cwiczenia$ git checkout cea13d
+```
+git checkout cea13d
+```
 Note: checking out 'cea13d'.
-
+```
 git switch -
+```
 
-
-(deleting a repository)
+## Deleting a repository
+```
 rm -rf .git
-
+```
 
