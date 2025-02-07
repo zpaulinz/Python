@@ -19,6 +19,7 @@ Python/
 │   └── json_dumps_loads_examples.py
 │    
 ├── django/
+│   └── first-project.md
 ├── pandas/
 ├── numpy/	              
 ├── mini-projects/
