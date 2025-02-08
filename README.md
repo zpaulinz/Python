@@ -25,7 +25,13 @@ Python/
 ├── mini-projects/
 │   ├── number-guessing-game.py
 │   ├── pi_precision.py
-│   ├── rectangle_area.py     
+│   ├── rectangle_area.py
+│   ├── hn_article.py
+│   ├── hn_submissions.py
+│   ├── mpl_squares.py
+│   ├── python_repos.py
+│   ├── python_repos_visual.py
+│   ├── square_root.py    
 └── README.md                
 ```
 
