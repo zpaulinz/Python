@@ -15,7 +15,10 @@ Python/
 │   ├── if_conditions_examples.py
 │   ├── user-input-while-loop.py      
 │   ├── functions_examples.py	 
-│   ├── classes_examples.py	     
+│   ├── classes_examples.py
+│   ├── API.py
+│   ├── city_functions.py
+│   ├── code_testing.py	 	   
 │   └── json_dumps_loads_examples.py
 │    
 ├── django/
