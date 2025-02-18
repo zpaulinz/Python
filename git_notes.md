@@ -42,6 +42,8 @@ git status
 
 ## Adding files to a repository
 ```
+git add hello.html
+
 git add .
 ```
 
