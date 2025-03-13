@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/PYTHON-brightgreen?style=for-the-badge&color=%230F1FFA)
+
 # Python
 A collection of Python notes and examples for learning and practice
 
