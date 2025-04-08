@@ -18,6 +18,7 @@ Python/
 │   ├── user-input-while-loop.py      
 │   ├── functions_examples.py	 
 │   ├── classes_examples.py
+│   ├── exceptions.py	
 │   ├── API.py
 │   ├── survey.py
 │   ├── test_survey.py
